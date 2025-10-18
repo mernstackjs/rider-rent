@@ -2,4 +2,9 @@
 
 A simple MERN stack rental application.
 
-## - Tech
+## Tech Stack
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
