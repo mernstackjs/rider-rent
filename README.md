@@ -1,6 +1,6 @@
 # Rider Rent App
 
-A simple MERN stack rental application.
+A simple MERN stack rental (cars) application.
 
 ## Tech Stack
 
